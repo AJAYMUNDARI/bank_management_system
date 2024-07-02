@@ -1,0 +1,5 @@
+MYSQL_HOST="localhost"
+MYSQL_USER="root"
+MYSQL_PASSWORD="Mysql@j@y1005"
+MYSQL_DATABASE="bankdb"
+
